@@ -51,7 +51,7 @@ pruebajava/
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/gestor-tareas.git
+   git clone https://github.com/Edson733/Prueba_Java_Rocket.git
 
 2. Navega al directorio del proyecto:
    ```bash
