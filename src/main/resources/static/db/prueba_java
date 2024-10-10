@@ -1,0 +1,11 @@
+CREATE DATABASE prueba_java;
+USE prueba_java;
+
+CREATE TABLE tareas(
+	id INT AUTO_INCREMENT PRIMARY KEY,
+	nombre VARCHAR(50) NOT NULL,
+    descripcion VARCHAR(250) NOT NULL,
+    fecha_inicio DATE NOT NULL
+);
+
+SELECT * FROM tareas;
