@@ -55,7 +55,7 @@ pruebajava/
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd gestor-tareas
+   cd Prueba_Java_Rocket
 
 3. Asegurarse de tener Java 17 y Maven instalados en tu sistema.
 
